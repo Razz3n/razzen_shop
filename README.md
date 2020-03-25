@@ -31,7 +31,7 @@ This order also applies in the startup order.
 
 ```
 cd resources
-git clone https://github.com/Riziebtw/rzy_shops
+git clone https://github.com/Razz3n/razzen_shop
 ```
 
 ### Manually
